@@ -8,6 +8,8 @@
       "one-dark-ui"
       "zenburn-theme"
     ]
+  "default-language":
+    defaultLanguage: "Pandoc markdown"
   editor:
     softWrap: true
     tabLength: 4

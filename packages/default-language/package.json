@@ -1,0 +1,46 @@
+{
+  "name": "default-language",
+  "main": "./lib/index",
+  "version": "0.3.0",
+  "description": "Fallback language if no language can be detected",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fankserver/atom-default-language.git"
+  },
+  "engines": {
+    "atom": ">=0.174.0 <2.0.0"
+  },
+  "dependencies": {},
+  "bugs": {
+    "url": "https://github.com/Fankserver/atom-default-language/issues"
+  },
+  "homepage": "https://github.com/Fankserver/atom-default-language",
+  "keywords": [
+    "unkown",
+    "null",
+    "grammar",
+    "language",
+    "default",
+    "fallback"
+  ],
+  "readme": "# Fallback language configuration for Atom\n\n![default-language](https://github.com/Fankserver/atom-default-language/raw/master/preview.gif)\n",
+  "readmeFilename": "README.md",
+  "_id": "default-language@0.3.0",
+  "_shasum": "a689186f2c484a913fb367d7cfc32c00fc334f33",
+  "_resolved": "file:..\\d-116619-9804-l826p3\\package.tgz",
+  "_from": "..\\d-116619-9804-l826p3\\package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "coffeelint.json",
+        "package.json"
+      ],
+      ".coffee": [
+        "lib\\index.coffee"
+      ]
+    },
+    "folders": []
+  }
+}
