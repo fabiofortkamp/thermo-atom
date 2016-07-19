@@ -1,0 +1,13 @@
+"*":
+  core:
+    themes: [
+      "one-dark-ui"
+      "zenburn-theme"
+    ]
+  editor:
+    softWrap: true
+    tabLength: 4
+  "exception-reporting":
+    userId: "9d2cc651-880b-ad49-90cb-e8e61ea9a2b1"
+  welcome:
+    showOnStartup: false
