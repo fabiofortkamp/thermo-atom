@@ -15,6 +15,7 @@
   "default-language":
     defaultLanguage: "Pandoc markdown"
   editor:
+    fontSize: 16
     showIndentGuide: true
     softWrap: true
     tabLength: 4
