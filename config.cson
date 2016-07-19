@@ -1,8 +1,12 @@
 "*":
+  Zen:
+    softWrap: false
+    width: 160
   core:
     disabledPackages: [
       "notebook"
       "language-gfm"
+      "wrap-guide"
     ]
     themes: [
       "one-dark-ui"
@@ -11,10 +15,13 @@
   "default-language":
     defaultLanguage: "Pandoc markdown"
   editor:
+    showIndentGuide: true
     softWrap: true
     tabLength: 4
   "exception-reporting":
     userId: "9d2cc651-880b-ad49-90cb-e8e61ea9a2b1"
+  "markdown-preview":
+    breakOnSingleNewline: true
   nvatom:
     directory: "~/Dropbox/notes"
   welcome:
