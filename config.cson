@@ -1,5 +1,9 @@
 "*":
   core:
+    disabledPackages: [
+      "notebook"
+      "language-gfm"
+    ]
     themes: [
       "one-dark-ui"
       "zenburn-theme"
@@ -9,5 +13,13 @@
     tabLength: 4
   "exception-reporting":
     userId: "9d2cc651-880b-ad49-90cb-e8e61ea9a2b1"
+  nvatom:
+    directory: "~/Dropbox/notes"
   welcome:
     showOnStartup: false
+".gfm.nvatom.source":
+  editor:
+    tabLength: 4
+".gfm.source":
+  editor:
+    tabLength: 4
