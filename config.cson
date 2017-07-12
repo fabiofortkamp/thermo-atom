@@ -10,8 +10,8 @@
     ]
     telemetryConsent: "limited"
     themes: [
-      "atom-dark-ui"
-      "atom-dark-syntax"
+      "one-dark-ui"
+      "solarized-dark-syntax"
     ]
   "default-language":
     defaultLanguage: "Pandoc markdown"
