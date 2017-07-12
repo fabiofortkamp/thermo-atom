@@ -7,8 +7,8 @@
       "notebook"
       "language-gfm"
       "wrap-guide"
-      "atomic-emacs"
     ]
+    telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
       "zenburn-theme"
