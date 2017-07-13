@@ -6,4 +6,18 @@
       "C:\\Users\\Fabio\\Dropbox\\notes\\fabiofortkamp.com-posts"
     ]
   }
+  {
+    title: "Nemplot"
+    group: "python"
+    paths: [
+      "C:\\Users\\Fabio\\latex-writing\\paper-magnetic-profiles\\nemplot"
+    ]
+  }
+  {
+    title: "Paper Magnetic Profiles"
+    group: "papers"
+    paths: [
+      "C:\\Users\\Fabio\\latex-writing\\paper-magnetic-profiles"
+    ]
+  }
 ]
