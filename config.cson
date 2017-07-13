@@ -2,6 +2,12 @@
   Zen:
     softWrap: false
     width: 160
+  "autocomplete-plus":
+    fileBlacklist: [
+      ".*"
+      "*.md"
+      "*.txt"
+    ]
   core:
     disabledPackages: [
       "notebook"
@@ -16,7 +22,7 @@
   "default-language":
     defaultLanguage: "Pandoc markdown"
   editor:
-    fontSize: 16
+    fontFamily: "DejaVu Sans Mono"
     showIndentGuide: true
     softWrap: true
     tabLength: 4
