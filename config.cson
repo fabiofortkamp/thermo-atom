@@ -14,6 +14,13 @@
       "language-gfm"
       "wrap-guide"
     ]
+    ignoredNames: [
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "*~"
+    ]
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
@@ -32,6 +39,8 @@
     breakOnSingleNewline: true
   nvatom:
     directory: "~/Dropbox/notes"
+  "tree-view":
+    hideIgnoredNames: true
   welcome:
     showOnStartup: false
 ".gfm.nvatom.source":
