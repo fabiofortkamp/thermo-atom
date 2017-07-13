@@ -21,6 +21,7 @@
       "desktop.ini"
       "*~"
     ]
+    restorePreviousWindowsOnStart: "no"
     telemetryConsent: "limited"
     themes: [
       "one-dark-ui"
