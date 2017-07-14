@@ -38,6 +38,9 @@
     userId: "9d2cc651-880b-ad49-90cb-e8e61ea9a2b1"
   "markdown-preview":
     breakOnSingleNewline: true
+  "markdown-writer":
+    fileExtension: ".md"
+    siteLocalDir: "~/Dropbox/notes/fabiofortkamp.com-posts"
   nvatom:
     directory: "~/Dropbox/notes"
   "tree-view":
